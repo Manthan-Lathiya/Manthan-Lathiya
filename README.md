@@ -1,6 +1,6 @@
 # Hi, I'm Manthan Lathiya 👋
 
-🎓 B. Tech. Student at L. J. Institute of Engineering and Technology 
+🎓 B.E. Student at L. J. Institute of Engineering and Technology 
 
 🚀 Interested in:
 - Artificial Intelligence
